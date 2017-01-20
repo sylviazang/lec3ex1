@@ -1,2 +1,7 @@
 Yizeze
+<<<<<<< HEAD
 Harry Potter & future
+=======
+Yingjin
+Kaiwen Sun
+>>>>>>> refs/remotes/origin/master
